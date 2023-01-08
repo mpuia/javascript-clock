@@ -11,13 +11,9 @@ body {
     translateY(-50%);
     color: black;
     font-family: Orbitron;
-    font-size: 120px;
+    font-size: 70px;
     font-weight: normal;
     letter-spacing: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
 }
 
 .date {
@@ -25,7 +21,7 @@ body {
     justify-content: center;
     align-items: center; */
     position: absolute;
-    font-size: 80px;
+    font-size: 60px;
     top: 40%;
     left: 50%;
     transform: translateX(-50%)
@@ -34,9 +30,4 @@ body {
     font-family: Hind;
     color: #F3CFC6;
     text-shadow: 1px 2px 3px grey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    
 }
