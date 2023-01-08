@@ -5,7 +5,7 @@ body {
 
 .clock {
     position: absolute;
-    display: block;
+    display: inline-block;
     top: 30%;
     left: 50%;
     transform: translateX(-50%)
@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center; */
     position: absolute;
-    display: block;
+    display: inline-block;
     font-size: 80px;
     top: 40%;
     left: 50%;
